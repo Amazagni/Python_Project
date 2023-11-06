@@ -1,2 +1,2 @@
-# Python Project
-Creating Galaga
+# Simple Galaga game
+Created for Python AGH University course.
